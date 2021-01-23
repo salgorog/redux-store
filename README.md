@@ -20,7 +20,7 @@ An E-Commerce full stack application built with React, GraphQL, and a MongoDB Da
 
 ## Usage 
 
-* The App can be found [Here](https://aqueous-island-55143.herokuapp.com/)
+* The App can be found [Here](https://redux-store4123.herokuapp.com/)
 * Create an account by providing a username, email, and password
 * Add items to your cart.
 * Checkout the items from your cart.
@@ -30,6 +30,6 @@ An E-Commerce full stack application built with React, GraphQL, and a MongoDB Da
     
 ## Reference
 
-[Link to Deployed Site](https://aqueous-island-55143.herokuapp.com/)
+[Link to Deployed Site](https://redux-store4123.herokuapp.com/)
 
 ![](client/public/images/shop.png)
